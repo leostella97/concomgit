@@ -31,3 +31,10 @@ git status: Mostra o estado atual do repositório e quais arquivos foram modific
 <b>• git pull:</b> Atualiza o repositório local com as alterações feitas no repositório remoto.
 <br>
 <b>• git clone url_do_repositório:</b> Clona um repositório remoto para o seu computador local.
+
+
+# Exemplo "git clone"
+<img src="exemplo-clone.png">
+
+# Exemplo "git push"
+<img src="exemplo-push.png">
