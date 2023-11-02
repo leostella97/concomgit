@@ -16,7 +16,8 @@ O Git também inclui recursos avançados, como a capacidade de criar <b>"ramific
 <b>• git add . :</b> Adiciona todos os arquivos alterados e novos ao índice (staging area) para serem commitados posteriormente.
 <br>
 <b>• git commit -m "mensagem de commit":</b> Confirma as alterações feitas no repositório com uma mensagem descritiva.
-git status: Mostra o estado atual do repositório e quais arquivos foram modificados ou adicionados.
+<br>
+<b>• git status:</b> Mostra o estado atual do repositório e quais arquivos foram modificados ou adicionados.
 <br>
 <b>• git log:</b> Mostra o histórico de commits realizados no repositório.
 <br>
